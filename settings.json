@@ -1,0 +1,14 @@
+{
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Nord",
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": false,
+    "workbench.editor.enablePreview": false
+}
